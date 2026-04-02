@@ -1,11 +1,11 @@
 {
   "operations": [],
   "resources": {
-    "1f3177e9-b2b4-4272-b393-04ad3499bc5e": {
+    "dde1af30-a5f5-41c2-9fa1-d73a38518d89": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "1f3177e9-b2b4-4272-b393-04ad3499bc5e",
+      "iri": "dde1af30-a5f5-41c2-9fa1-d73a38518d89",
       "dataPsmHumanLabel": null,
       "dataPsmHumanDescription": null,
       "dataPsmTechnicalLabel": null,

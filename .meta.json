@@ -1,21 +1,21 @@
 {
-  "iri": "387175bb-95b4-467d-b12e-e6e21778b672",
+  "iri": "0e351f9d-0680-4259-b8ef-962a6dcf3882",
   "projectIri": "387175bb-95b4-467d-b12e-e6e21778b672",
   "types": [
     "http://dataspecer.com/resources/local/package"
   ],
   "userMetadata": {
     "label": {
-      "cs": "ne uz ne git"
+      "cs": "I think that we are done"
     },
     "description": {}
   },
   "metadata": {
-    "creationDate": "2026-04-01T14:33:49.864Z",
-    "modificationDate": "2026-04-01T14:44:01.099Z"
+    "creationDate": "2026-04-02T17:12:01.091Z",
+    "modificationDate": "2026-04-02T17:12:48.056Z"
   },
   "_version": 1,
   "_exportVersion": 2,
-  "_exportedAt": "2026-04-01T14:44:07.019Z",
+  "_exportedAt": "2026-04-02T17:12:57.155Z",
   "_exportedBy": "http://localhost:3100"
 }
